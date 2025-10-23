@@ -1,0 +1,24 @@
+﻿A little legitimate desperation fun at work
+
+Author: GoingGreen
+
+*000*2015-05-20 02:53
+
+At work, I test touchscreens for tablets and smartphones. For the most part, the test involves using a robot to touch the screens with a simulated finger. Of course, getting an accurate "simulated finger" requires measuring the electrical and mechanical properties of real fingers. That means doing characterizing among different genders, age groups, races, lifestyles, etc.
+
+Someone else noticed that I drink a lot of water and didn't mind cold weather very much, commenting that I would be near perfect for the "well hydrated, cold weather" group. Recently, I actually got to participate. The testing was done in a different building, about 10 minutes from the lab I normally work at. The test room was shielded to avoid external noise affecting the results and the concrete floor was covered with rubber mats to isolate the body from ground.
+
+For my group, it was crucial to stay well hydrated before and during the testing, and also dress sufficiently light (summer clothes suggested) to the point where it starts feeling a little cold. Exactly the right conditions to induce desperation!
+
+It began with getting a prototype smartphone and answering an anonymous survey about gender, age, race, lifestyle, etc. Afterwards, the app asks the user to draw a few lines and click a few buttons on the screen. All that data is being logged in real time over a wireless connection. That takes about 30-45 minutes. On completion, the app shows a QR code for the next stage.
+
+Halfway through answering the questions, one of the test engineers noticed a puddle on the floor and asked an Indian girl to stop for a moment, explaining that a wet floor may skew the results. Everyone looked at her, then moments later, she apologized for spilling some water. As she stepped out of the way to clean up the water, everyone almost looked disappointed that her pants were bone dry. Back to work, nothing to see here... (I later overheard someone saying that a few years back, someone really did wet themselves during the test.)
+
+I now finished the first part and went to the line to wait for the next stage. There, they have a bunch of electronic test equipment set up to capture more detailed data. You first scan the QR code at each test station so they can correlate the data. Then they ask you to touch various test fixtures. For example, one involved pushing on a glass square with gradually increasing pressure while they measure the contact area, while another was to hold your finger still on a circuit board while they do an impedance sweep.
+
+At this point, I was feeling a little desperate. The line wasn't very long and it was over in about 5 minutes. The testing took about 20 minutes in all, during which my desperation level increased a lot. It didn't help that the tests asked for staying as still as possible and to make movements as smoothly as possible. Once I was done with that, I turned in the prototype smartphone to get a lunch ticket (they offered free lunch to encourage people to join) and asked to go to the bathroom "to wash my hands". (That's an especially good idea when the rework stations often use leaded solder.) As usual, people tend to be lazy and don't wash their hands when they really should, so there was no line at the bathrooms and hence no drama there. But I do have to say that it's the closest I have got to losing it at work!
+
+In summary, next time you enjoy using a touchscreen device (especially outdoors during the winter), thank the guys and girls who almost wet themselves collecting the data to make it work well!
+
+BTW, cold weather is considered difficult for touchscreens as the cold, dry air tends to dry out the skin (hot, dry air tends to induce sweating and therefore is generally not problematic) and increases the impedance.
+

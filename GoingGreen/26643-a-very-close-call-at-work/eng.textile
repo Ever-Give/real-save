@@ -1,0 +1,26 @@
+﻿A (very) close call at work
+
+Author: GoingGreen
+
+*000*2015-07-03 04:22
+
+Yesterday at work, I got asked to do a thermal stress test on a prototype device. For those who don't know, a thermal stress test simulates near catastrophic overheating - e.g. leaving the unit in a hot car. Such a test can easily take well over an hour (which I didn't know beforehand) and requires the operator to always be ready to terminate the test if something goes wrong.
+
+The day started off like any other day - arrive in the lab and get the setups ready for testing. There were a few other tests to get done as often happens. Then it was time for lunch, which was in another building a fair distance away. It was a hot day, so I drank even more water than I normally do. (For those wondering why I didn't drive, walking is much more environmentally friendly and gives much needed exercise, plus the distance was sufficiently short that it would actually be slower to drive.)
+
+When I got back, someone who requested the test dropped off the prototype for testing. My last bathroom break was right before returning to the lab so I didn't expect any problems. I put the unit in the test fixture and after working out a few setup issues (taking about 15 minutes or so), I started the test. The other team members were off to meetings so I was the only one in that part of the lab. I continued drinking water to cool off from the walk back.
+
+Within about 45 minutes, I was already feeling the need. The test gave no indication of progress except a guess given by the temperature reading on what is essentially a very fancy (and very hot) computer controlled hair dryer. For those who know about differential equations, the rate of heating slows as the unit heats up due in part to a limit on the exterior case temperature. Another 30 minutes pass and I was getting very desperate and the test showed no sign of ending. I was still alone in that part of the lab, but there were others in distant parts of the lab doing completely unrelated work, who also appeared quite busy and would not want to watch the setup for even a minute.
+
+I had 3 choices at this point:
+
+1: Run off to the bathroom and risk destroying a rare prototype, maybe even starting a fire. Not good and lab rules disallow leaving a thermal stress test unattended for even a minute, meaning I would be held responsible.
+
+2: Abort the test and waste over an hour and a half of test time. I don't think the ones waiting for the results would appreciate that.
+
+3: Wait and hope another team member shows up before I lose it. While not exactly a good choice, there was enough clear floor to wet without doing any real damage, plus I could "spill the water bottle" to hide it.
+
+Fortunately, after another few minutes, another team member showed up. I quickly explained to her which switches to flip if something goes amiss and asked her to watch the setup while I ran off to the bathroom. As Murphy predicts, it was closed for cleaning. I ran up the stairs to the bathroom there, which was fortunately open. By the time I got inside and pulled down my pants, a spurt dripped out of my underwear about a second before I was able to get it out and direct it into the urinal as intended. I was totally amazed by how much came out. Afterwards, I checked that there was no noticeable wet spot on my (fortunately dark) pants and returned like nothing happened. It was fairly dilute so there shouldn't be much smell, plus the air currents in the lab would quickly dissipate any smell and dry up any damp spots, and then there's the fact that the thermal testing often makes strange smells of its own.
+
+The test finished about 10 minutes after that and then I spent another few minutes looking through and organizing the results to send back. Another bathroom break was not long after that. For the rest of the day, I was going to the bathroom a lot and was even woken up in the middle of the night. All returned to normal the next day.
+
